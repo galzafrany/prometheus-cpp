@@ -4,7 +4,7 @@ namespace prometheus {
 
 namespace detail {
 
-using value_type = double;
+using value_type = long double;
 
 }  // namespace detail
 
